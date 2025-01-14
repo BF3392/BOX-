@@ -665,7 +665,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/bf3392/bftvbox/raw/master/DSTV.txt",
+      "url": "https://raw.githubusercontent.com/BF3392/BOX-/refs/heads/main/DSTV.txt",
       "playerType": 1
     },
     {
