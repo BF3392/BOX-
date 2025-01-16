@@ -44,7 +44,7 @@ CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersi
 广州珠江,http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000033
 湖南卫视,hhttp://39.134.136.161:6610/000000001000/5000000010000030452/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030452
 山东卫视,http://39.134.136.161:6610/000000001000/1000000001000012807/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012807
-江苏卫视,http://39.134.136.161:6610/000000001000/1000000001000004684/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004684
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 北京卫视,http://39.134.136.161:6610/000000001000/1000000001000017156/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017156
 四川卫视,http://39.134.136.161:6610/000000001000/1000000002000016825/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000016825
 河北卫视,http://39.134.136.161:6610/000000001000/1000000002000017118/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000017118
@@ -52,13 +52,14 @@ CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersi
 贵州卫视,http://39.134.136.161:6610/000000001000/1000000002000003169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000003169
 重庆卫视,http://39.134.136.161:6610/000000001000/1000000002000018937/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000018937
 河南卫视,http://39.134.136.161:6610/000000001000/1000000002000027731/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000027731
-江西卫视,http://39.134.136.161:6610/000000001000/1000000001000013731/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013731
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
 东南卫视,http://39.134.136.161:6610/000000001000/1000000002000009263/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000009263
 安徽卫视,http://39.134.136.161:6610/000000001000/5000000001000027288/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000027288
-湖北卫视,http://39.134.136.161:6610/000000001000/5000000010000022140/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000022140
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
 黑龙江卫视,http://39.134.136.161:6610/000000001000/1000000001000009082/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000009082
-东方卫视,http://39.134.136.161:6610/000000001000/1000000001000030202/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000030202
+东方卫视,http://z.b.bkpcp.top/m.php?id=shys
 吉林卫视,http://39.134.136.161:6610/000000001000/1000000002000027730/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000027730
+陕西卫视，http://z.b.bkpcp.top/m.php?id=sxws
 海南卫视,http://39.134.136.161:6610/000000001000/1000000002000023773/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000023773
 超级电影,http://39.134.136.161:6610/000000001000/1000000001000012884/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012884
 超级电视剧,http://39.134.136.161:6610/000000001000/1000000001000008139/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008139
